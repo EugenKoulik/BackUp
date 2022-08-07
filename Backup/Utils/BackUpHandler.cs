@@ -16,7 +16,7 @@ namespace Backup
                 Console.WriteLine("Destination folder not found!");
                 return;
             }
-            _log = new BackUpLogger(settings.TargetFolder);
+            _log = new BackUpLogger(settings.TargetFolder, settings, currentDateTime);
             
             foreach (var currentSourceFolder in settings.SourceFolders)
             {
