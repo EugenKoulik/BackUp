@@ -1,0 +1,16 @@
+﻿{
+  "SourceFolders": [
+    "D:\\Source1",
+    "D:\\Source2",
+    "D:\\Source3"
+  ],
+  "TargetFolder": "D:\\Backup",
+  "LoggingParams": {
+    "Error": true,
+    "Info": true,
+    "Debug": true
+  },
+  "DateTimeFormat": "MM/dd/yyyy HH-mm-ss"
+}
+
+

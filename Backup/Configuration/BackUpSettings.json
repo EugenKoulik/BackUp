@@ -1,0 +1,18 @@
+﻿{
+  "BackUpSettings": {
+    "Windows": {
+      "SourceFolders": {
+        "DirectoryPath": "D:\\Source1"
+      },
+      "TargetFolder": {
+          "DirectoryPath": "D:\\Backup"
+        }
+    },
+    "Logging": {
+      "Error": true,
+      "Info": true,
+      "Debug": true
+    },
+    "DateTimeFormat": "dddd, dd MMMM yyyy HH:mm:ss"
+  }
+}

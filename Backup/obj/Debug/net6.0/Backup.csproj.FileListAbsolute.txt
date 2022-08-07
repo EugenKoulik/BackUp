@@ -1,0 +1,17 @@
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\bin\Debug\net6.0\Backup.exe
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\bin\Debug\net6.0\Backup.deps.json
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\bin\Debug\net6.0\Backup.runtimeconfig.json
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\bin\Debug\net6.0\Backup.dll
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\bin\Debug\net6.0\Backup.pdb
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\Backup.csproj.AssemblyReference.cache
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\Backup.AssemblyInfoInputs.cache
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\Backup.AssemblyInfo.cs
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\Backup.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\Backup.csproj.CopyComplete
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\Backup.dll
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\refint\Backup.dll
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\Backup.pdb
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\Backup.genruntimeconfig.cache
+C:\Users\Evgeniy\RiderProjects\Backup\Backup\obj\Debug\net6.0\ref\Backup.dll
